@@ -5,9 +5,10 @@
     {
       "name": "DinBox",
       "bundleIdentifier": "dinbox.keyholding",
-      "developerName": "DinBox",
+      "marketplaceID": "1631804171",
+      "developerName": "IT Keyholding",
       "subtitle": "DinBox App",
-      "localizedDescription": "DinBox",
+      "localizedDescription": "DinBox - aplicatie video",
       "iconURL": "https://raw.githubusercontent.com/dnbtv/dnbtv-alstore/main/icon.png",
       "tintColor": "0066CC",
       "versions": [
@@ -19,5 +20,6 @@
         }
       ]
     }
-  ]
+  ],
+  "news": []
 }
