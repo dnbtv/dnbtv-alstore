@@ -1,24 +1,36 @@
 {
   "name": "dnbtv AltStore Source",
-  "identifier": "dinbox.keyholding.source",
+  "subtitle": "Aplicatii video",
+  "description": "Sursa dnbtv cu aplicatii video.",
+  "iconURL": "https://raw.githubusercontent.com/dnbtv/dnbtv-alstore/main/icon.png",
+  "website": "https://github.com/dnbtv/dnbtv-alstore",
+  "tintColor": "#0066CC",
   "apps": [
     {
       "name": "DinBox",
       "bundleIdentifier": "dinbox.keyholding",
       "marketplaceID": "1631804171",
       "developerName": "IT Keyholding",
-      "subtitle": "DinBox App",
-      "localizedDescription": "DinBox - aplicatie video",
+      "subtitle": "Aplicatie video",
+      "localizedDescription": "Aplicatie video.",
       "iconURL": "https://raw.githubusercontent.com/dnbtv/dnbtv-alstore/main/icon.png",
-      "tintColor": "0066CC",
+      "tintColor": "#0066CC",
+      "category": "video",
+      "screenshots": [],
       "versions": [
         {
           "version": "1.3",
+          "buildVersion": "1",
           "date": "2024-09-10",
+          "minOSVersion": "11.0",
           "downloadURL": "https://raw.githubusercontent.com/dnbtv/dnbtv-alstore/main/DinBox.ipa",
           "size": 20978506
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
