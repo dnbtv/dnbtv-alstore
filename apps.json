@@ -1,0 +1,23 @@
+{
+  "name": "dnbtv AltStore Source",
+  "identifier": "dinbox.keyholding.source",
+  "apps": [
+    {
+      "name": "DinBox",
+      "bundleIdentifier": "dinbox.keyholding",
+      "developerName": "DinBox",
+      "subtitle": "DinBox App",
+      "localizedDescription": "DinBox - aplicatie retrasa din App Store",
+      "iconURL": "https://raw.githubusercontent.com/dnbtv/dnbtv-alstore/main/icon.png",
+      "tintColor": "0066CC",
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2024-09-10",
+          "downloadURL": "https://raw.githubusercontent.com/dnbtv/dnbtv-alstore/main/DinBox.ipa",
+          "size": 20978506
+        }
+      ]
+    }
+  ]
+}
