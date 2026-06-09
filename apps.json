@@ -23,7 +23,7 @@
           "buildVersion": "1",
           "date": "2024-09-10",
           "minOSVersion": "11.0",
-          "downloadURL": "https://corsproxy.io/?https://raw.githubusercontent.com/dnbtv/dnbtv-alstore/main/DinBox.ipa",
+          "downloadURL": "https://corsproxy.io/?https://raw.githubusercontent.com/dnbtv/dnbtv-alstore/main/manifest.json",
           "size": 20978506
         }
       ],
