@@ -7,7 +7,7 @@
       "bundleIdentifier": "dinbox.keyholding",
       "developerName": "DinBox",
       "subtitle": "DinBox App",
-      "localizedDescription": "DinBox - aplicatie retrasa din App Store",
+      "localizedDescription": "DinBox",
       "iconURL": "https://raw.githubusercontent.com/dnbtv/dnbtv-alstore/main/icon.png",
       "tintColor": "0066CC",
       "versions": [
